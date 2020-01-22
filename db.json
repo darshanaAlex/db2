@@ -1,43 +1,41 @@
 {
-  "time_off": [
-    {
-      "langage": "U.S. English",
-      "used": 3,
-      "pending": 1,
-      "remaining": 10,
-      "total": 6,
-      "upcommingtime": [
-        {
-          "dateperiod": "08-Aug-2019 to 16-Aug-2019",
-          "resonoff": "Vacation"
-        },
-        {
-          "dateperiod": "19-Aug-2019",
-          "resonoff": "Personal Time-Off"
-        }
-      ],
-      "pendingapproval": [
-        {
-          "dateperiod": "25-Aug-2019",
-          "resonoff": "Personal Time-Off"
-        },
-        {
-          "dateperiod": "31-Aug-2019",
-          "resonoff": "Personal Time-Off"
-        }
-      ],
-      "rejecttime": [
-        {
-          "dateperiod": "25-Aug-2019",
-          "resonoff": "Personal Time-Off"
-        },
-        {
-          "dateperiod": "31-Aug-2019",
-          "resonoff": "Personal Time-Off"
-        }
-      ]
-    }
-  ],
+  "time_off": {
+    "langage": "U.S. English",
+    "used": 3,
+    "pending": 1,
+    "remaining": 10,
+    "total": 6,
+    "upcommingtime": [
+      {
+        "dateperiod": "08-Aug-2019 to 16-Aug-2019",
+        "resonoff": "Vacation"
+      },
+      {
+        "dateperiod": "19-Aug-2019",
+        "resonoff": "Personal Time-Off"
+      }
+    ],
+    "pendingapproval": [
+      {
+        "dateperiod": "25-Aug-2019",
+        "resonoff": "Personal Time-Off"
+      },
+      {
+        "dateperiod": "31-Aug-2019",
+        "resonoff": "Personal Time-Off"
+      }
+    ],
+    "rejecttime": [
+      {
+        "dateperiod": "25-Aug-2019",
+        "resonoff": "Personal Time-Off"
+      },
+      {
+        "dateperiod": "31-Aug-2019",
+        "resonoff": "Personal Time-Off"
+      }
+    ]
+  },
   "taketimeoff": {
     "from": "15-Sep-2019",
     "to": "15-Sep-2019",
