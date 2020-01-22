@@ -17,22 +17,22 @@
     ],
     "pendingapproval": [
       {
-        "dateperiod": "25-Aug-2019",
-        "resonoff": "Personal Time-Off"
+        "dateperiodapp": "25-Aug-2019",
+        "resonoffapp": "Personal Time-Off"
       },
       {
-        "dateperiod": "31-Aug-2019",
-        "resonoff": "Personal Time-Off"
+        "dateperiodapp": "31-Aug-2019",
+        "resonoffapp": "Personal Time-Off"
       }
     ],
     "rejecttime": [
       {
-        "dateperiod": "25-Aug-2019",
-        "resonoff": "Personal Time-Off"
+        "dateperiodreject": "25-Aug-2019",
+        "resonoffreject": "Personal Time-Off"
       },
       {
-        "dateperiod": "31-Aug-2019",
-        "resonoff": "Personal Time-Off"
+        "dateperiodreject": "31-Aug-2019",
+        "resonoffreject": "Personal Time-Off"
       }
     ]
   },
