@@ -93,6 +93,42 @@
   ],
   "myExpenses": [
     {
+      "id": "2",
+      "date": "24-Aug-2019",
+      "time": "08.30",
+      "cost": "+$5162,34",
+      "expensedetail": {
+        "Employee": "Henry Nixon",
+        "TrasDate": "22-Aug-2019",
+        "SubDate": "24-Aug-2019",
+        "Status": "APPROVED",
+        "detailExpens": [
+          {
+            "item": "Parking",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "Yes",
+            "ProjectCode": "Pro-1"
+          },
+          {
+            "item": "Office Supplies",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "Yes",
+            "ProjectCode": "Pro-2"
+          },
+          {
+            "item": "Flowers for Client",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "No",
+            "ProjectCode": "Pro-3"
+          }
+        ],
+        "total": "$ 90.00"
+      }
+    },
+    {
       "id": "3",
       "date": "10-Sep-2019",
       "time": "10.30",
@@ -159,42 +195,6 @@
             "ExpenseCode": "Admin",
             "BillabletoClient": "No",
             "ProjectCode": "Pro-6"
-          }
-        ],
-        "total": "$ 90.00"
-      }
-    },
-    {
-      "id": "2",
-      "date": "24-Aug-2019",
-      "time": "08.30",
-      "cost": "+$5162,34",
-      "expensedetail": {
-        "Employee": "Henry Nixon",
-        "TrasDate": "22-Aug-2019",
-        "SubDate": "24-Aug-2019",
-        "Status": "APPROVED",
-        "detailExpens": [
-          {
-            "item": "Parking",
-            "Amount": "$ 30.00",
-            "ExpenseCode": "Admin",
-            "BillabletoClient": "Yes",
-            "ProjectCode": "Pro-1"
-          },
-          {
-            "item": "Office Supplies",
-            "Amount": "$ 30.00",
-            "ExpenseCode": "Admin",
-            "BillabletoClient": "Yes",
-            "ProjectCode": "Pro-2"
-          },
-          {
-            "item": "Flowers for Client",
-            "Amount": "$ 30.00",
-            "ExpenseCode": "Admin",
-            "BillabletoClient": "No",
-            "ProjectCode": "Pro-3"
           }
         ],
         "total": "$ 90.00"
