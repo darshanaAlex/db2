@@ -199,6 +199,42 @@
         ],
         "total": "$ 90.00"
       }
+    },
+    {
+      "id": "4",
+      "date": "15-Sep-2019",
+      "time": "12.30",
+      "cost": "+$51,34",
+      "expensedetail": {
+        "Employee": "Henry Nixon",
+        "TrasDate": "15-Sep-2019",
+        "SubDate": "14-Sep-2019",
+        "Status": "APPROVED NOT",
+        "detailExpens": [
+          {
+            "item": "Parking",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "Yes",
+            "ProjectCode": "Pro-4"
+          },
+          {
+            "item": "Office Supplies",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "Yes",
+            "ProjectCode": "Pro-5"
+          },
+          {
+            "item": "Flowers for Client",
+            "Amount": "$ 30.00",
+            "ExpenseCode": "Admin",
+            "BillabletoClient": "No",
+            "ProjectCode": "Pro-6"
+          }
+        ],
+        "total": "$ 90.00"
+      }
     }
   ]
 }
