@@ -42,13 +42,13 @@
     "halfday": "yes",
     "leavetype": [
       {
-        "resontype": "Casual Leave",
+        "resontype": "Vacation",
         "available": "3",
         "Applied": "10",
         "Remaining": "6"
       },
       {
-        "resontype": "Sick Leave",
+        "resontype": "Personal Time-Off",
         "available": "2",
         "Applied": "10",
         "Remaining": "5"
