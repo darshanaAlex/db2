@@ -73,7 +73,7 @@
   },
   "my_dependent": [
     {
-      "id":"1",
+      "id": "1",
       "name": "Mary Doe",
       "relationship": "Spouse",
       "dob": "26-Jul-1997",
@@ -83,7 +83,7 @@
       "coverage_benifit": "Vision,Dental,Extended Health"
     },
     {
-       "id":"2",
+      "id": "2",
       "name": "David",
       "relationship": "Spouse",
       "dob": "24-Aug-1999",
@@ -215,7 +215,7 @@
         "detailExpens": [
           {
             "item": "Parking",
-            "Amount": "$ 30.00",
+            "Amount": "$ 20.00",
             "ExpenseCode": "Admin",
             "BillabletoClient": "Yes",
             "ProjectCode": "Pro-4"
@@ -229,7 +229,7 @@
           },
           {
             "item": "Flowers for Client",
-            "Amount": "$ 30.00",
+            "Amount": "$ 40.00",
             "ExpenseCode": "Admin",
             "BillabletoClient": "No",
             "ProjectCode": "Pro-6"
